@@ -16,7 +16,7 @@ function App() {
       fontFamily: "Arial, sans-serif",
       backgroundColor: "#f5f5f5"
     }}>
-      <h1 style={{ color: "#333" }}>🎉 Welcome to My React App 🎉</h1>
+      <h1 style={{ color: "#333" }}>🎉 Welcome to Seenu 🎉</h1>
       <p style={{ color: "#555", fontSize: "18px" }}>
         This is a simple welcome page built with React + Vite 🚀
       </p>
